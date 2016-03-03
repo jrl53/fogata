@@ -12,6 +12,7 @@
   "author": "Jose Leon",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.13.4"
   },
   "engines": {
     "node": "0.12.x"
