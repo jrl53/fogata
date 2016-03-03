@@ -1,0 +1,20 @@
+{
+  "name": "fogata",
+  "version": "1.0.0",
+  "description": "Backend for FOGATA",
+  "main": "traxohook.js",
+  "scripts": {
+    "start": "traxohook.js"
+  },
+  "keywords": [
+    "fogata"
+  ],
+  "author": "Jose Leon",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "engines": {
+    "node": "0.12.x"
+  },
+  "devDependencies": {}
+}
